@@ -1,0 +1,17 @@
+1. Install git di project
+    git init
+
+2. Menambahkan semua code ke git
+    git add .
+    
+3. Membuat note message
+    git commit -m "first commit"
+
+4. Pindah ke branch main git
+    git branch -M main
+
+5. Hubungkan project dengan repo github
+    git remote add origin https://github.com/AndikaEza/belajar-html.git
+
+6. kirim kode ke github
+git push -u origin main
